@@ -1,2 +1,4 @@
 # hello_world
-just a proof repository
+Hi there
+
+i just like play with code, have fun! and keep coding
